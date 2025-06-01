@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="furiTOT.png">
+	<!-- Created with Adobe Animate version 21.0.2.37893 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="afk örnek 10000" x="0" y="0" width="657" height="786" frameX="0" frameY="0" frameWidth="657" frameHeight="787"/>
+	<SubTexture name="afk örnek 10001" x="0" y="0" width="657" height="786" frameX="0" frameY="0" frameWidth="657" frameHeight="787"/>
+	<SubTexture name="afk örnek 10002" x="657" y="0" width="656" height="786" frameX="-1" frameY="0" frameWidth="657" frameHeight="787"/>
+	<SubTexture name="afk örnek 10003" x="657" y="0" width="656" height="786" frameX="-1" frameY="0" frameWidth="657" frameHeight="787"/>
+	<SubTexture name="afk örnek 10004" x="1313" y="0" width="655" height="787" frameX="-1" frameY="0" frameWidth="657" frameHeight="787"/>
+	<SubTexture name="afk örnek 10005" x="1313" y="0" width="655" height="787" frameX="-1" frameY="0" frameWidth="657" frameHeight="787"/>
+	<SubTexture name="down örnek 10000" x="1968" y="0" width="668" height="787" frameX="0" frameY="0" frameWidth="668" frameHeight="789"/>
+	<SubTexture name="down örnek 10001" x="1968" y="0" width="668" height="787" frameX="0" frameY="0" frameWidth="668" frameHeight="789"/>
+	<SubTexture name="down örnek 10002" x="2636" y="0" width="667" height="789" frameX="0" frameY="0" frameWidth="668" frameHeight="789"/>
+	<SubTexture name="down örnek 10003" x="2636" y="0" width="667" height="789" frameX="0" frameY="0" frameWidth="668" frameHeight="789"/>
+	<SubTexture name="down örnek 10004" x="3303" y="0" width="667" height="788" frameX="0" frameY="0" frameWidth="668" frameHeight="789"/>
+	<SubTexture name="down örnek 10005" x="3303" y="0" width="667" height="788" frameX="0" frameY="0" frameWidth="668" frameHeight="789"/>
+	<SubTexture name="idle örnek 10000" x="0" y="789" width="668" height="787" frameX="0" frameY="0" frameWidth="668" frameHeight="789"/>
+	<SubTexture name="idle örnek 10001" x="0" y="789" width="668" height="787" frameX="0" frameY="0" frameWidth="668" frameHeight="789"/>
+	<SubTexture name="idle örnek 10002" x="668" y="789" width="667" height="789" frameX="0" frameY="0" frameWidth="668" frameHeight="789"/>
+	<SubTexture name="idle örnek 10003" x="668" y="789" width="667" height="789" frameX="0" frameY="0" frameWidth="668" frameHeight="789"/>
+	<SubTexture name="idle örnek 10004" x="1335" y="789" width="667" height="788" frameX="0" frameY="0" frameWidth="668" frameHeight="789"/>
+	<SubTexture name="idle örnek 10005" x="1335" y="789" width="667" height="788" frameX="0" frameY="0" frameWidth="668" frameHeight="789"/>
+	<SubTexture name="left örnek 10000" x="2002" y="789" width="669" height="787" frameX="0" frameY="0" frameWidth="669" frameHeight="788"/>
+	<SubTexture name="left örnek 10001" x="2002" y="789" width="669" height="787" frameX="0" frameY="0" frameWidth="669" frameHeight="788"/>
+	<SubTexture name="left örnek 10002" x="2671" y="789" width="667" height="788" frameX="0" frameY="0" frameWidth="669" frameHeight="788"/>
+	<SubTexture name="left örnek 10003" x="2671" y="789" width="667" height="788" frameX="0" frameY="0" frameWidth="669" frameHeight="788"/>
+	<SubTexture name="left örnek 10004" x="3338" y="789" width="667" height="788" frameX="0" frameY="0" frameWidth="669" frameHeight="788"/>
+	<SubTexture name="left örnek 10005" x="3338" y="789" width="667" height="788" frameX="0" frameY="0" frameWidth="669" frameHeight="788"/>
+	<SubTexture name="right örnek 10000" x="0" y="1578" width="668" height="786" frameX="0" frameY="0" frameWidth="668" frameHeight="788"/>
+	<SubTexture name="right örnek 10001" x="0" y="1578" width="668" height="786" frameX="0" frameY="0" frameWidth="668" frameHeight="788"/>
+	<SubTexture name="right örnek 10002" x="668" y="1578" width="667" height="788" frameX="0" frameY="0" frameWidth="668" frameHeight="788"/>
+	<SubTexture name="right örnek 10003" x="668" y="1578" width="667" height="788" frameX="0" frameY="0" frameWidth="668" frameHeight="788"/>
+	<SubTexture name="right örnek 10004" x="1335" y="1578" width="667" height="787" frameX="0" frameY="0" frameWidth="668" frameHeight="788"/>
+	<SubTexture name="right örnek 10005" x="1335" y="1578" width="667" height="787" frameX="0" frameY="0" frameWidth="668" frameHeight="788"/>
+	<SubTexture name="up örnek 10000" x="2002" y="1578" width="669" height="786" frameX="0" frameY="0" frameWidth="669" frameHeight="788"/>
+	<SubTexture name="up örnek 10001" x="2002" y="1578" width="669" height="786" frameX="0" frameY="0" frameWidth="669" frameHeight="788"/>
+	<SubTexture name="up örnek 10002" x="2671" y="1578" width="667" height="788" frameX="-1" frameY="0" frameWidth="669" frameHeight="788"/>
+	<SubTexture name="up örnek 10003" x="2671" y="1578" width="667" height="788" frameX="-1" frameY="0" frameWidth="669" frameHeight="788"/>
+	<SubTexture name="up örnek 10004" x="3338" y="1578" width="667" height="787" frameX="-1" frameY="0" frameWidth="669" frameHeight="788"/>
+	<SubTexture name="up örnek 10005" x="3338" y="1578" width="667" height="787" frameX="-1" frameY="0" frameWidth="669" frameHeight="788"/>
+</TextureAtlas>
